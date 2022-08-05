@@ -5,6 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class SpringRestDemoApplicationTests {
+	int a=10;
 
 	@Test
 	void contextLoads() {
